@@ -16,3 +16,4 @@ This project wouldn't have been possible if it weren't for the help of many amaz
 * EpikIzCool - Mapping assistance and resources
 * Fixed Username - Lots of testing and ideas
 * Infinity Ward - Original COD4 SDK
+* 1.11 mod menu running on 1.14 and able to load both dlc mapss and custom maps from menu 
